@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 CS @ Cal State LA | 🚀 Building Apple-native experiences<br>VP @ ACM & TIPSE | 👨‍💻 Developer • Designer • Leader
+🧠 CS @ Cal State LA | 🚀 Building Apple-native experiences<br>Former VP @ ACM & Current President of TIPSE | 👨‍💻 Developer • Designer • Leader
 
 
 ## 🌐 Socials:
