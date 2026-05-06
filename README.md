@@ -1,6 +1,11 @@
 # 💫 About Me:
 🧠 CS @ Cal State LA | 🚀 Building Apple-native experiences<br>Former VP @ ACM & Current President of TIPSE | 👨‍💻 Developer • Designer • Leader
 
+## 🍎 Published Apps:
+| App | Description |
+|---|---|
+| [MindDose](https://apps.apple.com/us/app/minddose/id6759991795) | Track your medications, how they make you feel, and your support system |
+| [Sugora](https://apps.apple.com/us/app/sugora/id6762153231) | Track your glucose, see how foods impact your health, and get insights |
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isi_flo28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isidoroflores) 
